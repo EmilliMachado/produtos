@@ -15,6 +15,15 @@ nav a {
     text-decoration: none;
 }
 
+nav a : hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
+
+.produtos li: hover {
+    border-color: #C78C19;
+}
+
 nav {
     position: absolute;
     top: 110px;
